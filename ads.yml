@@ -1,0 +1,11 @@
+- domain: "aiseet.aa.atianqi.com"
+  category: "advertising"
+  reason: "Tencent ad network"
+
+- domain: "livep.l.aiseet.atianqi.com"
+  category: "advertising"
+  reason: "Tencent ad network"
+
+- domain: "lives.l.aiseet.atianqi.com"
+  category: "advertising"
+  reason: "Tencent ad network"
