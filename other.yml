@@ -1,0 +1,11 @@
+- domain: "wpad.local"
+  category: "other"
+  reason: "Windows web proxy autodiscovery"
+
+- domain: "unifi"
+  category: "other"
+  reason: "Ubiquiti UniFi discovery"
+
+- domain: "unifi.local"
+  category: "other"
+  reason: "Ubiquiti UniFi discovery"
