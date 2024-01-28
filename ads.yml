@@ -9,3 +9,15 @@
 - domain: "lives.l.aiseet.atianqi.com"
   category: "advertising"
   reason: "Tencent ad network"
+
+- domain: "adtago.s3.amazonaws.com"
+  category: "advertising"
+  reason: "Amazon ad network"
+
+- domain: "advice-ads.s3.amazonaws.com"
+  category: "advertising"
+  reason: "Amazon ad network"
+
+- domain: "advertising-api-eu.amazon.com"
+  category: "advertising"
+  reason: "Amazon ad network"
